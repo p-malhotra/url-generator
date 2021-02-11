@@ -5,12 +5,10 @@ app = Flask('')
 
 url_mapper = {
     "https://www.youtube.com/channel/UCHK4HD0ltu1-I212icLPt3g"
-     : 'https://www.youtube.com/'
+     : 'g2KJp.ly'
      ,
      "https://twitter.com/elonmusk?cn=ZmxleGlibGVfcmVjcw%3D%3D&":
-      'https://twitter.com/elonmusk?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email',
-    "https://www.youtube.com/channel/UCHK4HD0ltu1-I212icLPt3g":
-      'https://www.youtube.com/'
+      'alKJp.ly'
 }
 
 #generate increasing counter to be used to create tiny url
