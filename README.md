@@ -25,3 +25,4 @@ this is default python sequence generator, can't be used for production purpose
 It is just abstract api.
 
 Very basic idea of REST GET/POST. 
+This is samll 2 hr test project to get basic understanding of REST API in python
