@@ -23,3 +23,5 @@ Only in-memory persistence, which goes away with user restart
 Sequence generator for shortened url, which will restart from begining with service restart.
 this is default python sequence generator, can't be used for production purpose
 It is just abstract api.
+
+Very basic idea of REST GET/POST. 
